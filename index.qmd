@@ -1,0 +1,40 @@
+---
+title: "Parul V. Patil"
+subtitle: "Ph.D. Student, Virginia Tech"
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  image: images/pvp.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://bitbucket.org/parulpatil22/workspace/overview
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/parul-vijay-patil-a6abb0242/
+    - icon: envelope
+      text: Email
+      href: mailto:parulvijay@vt.edu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=tpuu22UAAAAJ
+    - icon: person
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0009-0003-9235-5553
+---
+
+## Bio
+
+I am a Fifth Year PhD Student in the department of Statistics at Virginia Tech. My research interest is in the field of Gaussian Processes. I have worked with several ecological applications, applying Gaussian Processes in a forecasting framework. I have also developed a methodology to fit a Bayesian Heteroskedastic Gaussian Process (bhetGP). This tool can be used in situations where noise changes across the input space without undercutting UQ. Full implementation is available in an open source package `bhetGP` on CRAN.
+
+
+## Education
+
+Virginia Tech \| Blacksburg, Virginia PhD. in Statistics \| Aug 2021 - May 2026 (anticipated)
+
+University of Mumbai\| Mumbai, India MSc. in Statistics \| Aug 2018 - Oct 2020
+
+Ramnarain Ruia Autonomous College \| Mumbai, India BSc. in Statistics \| Aug 2015 - May 2018
+
+

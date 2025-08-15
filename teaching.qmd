@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Workshops 
+
+**Gaussian Process Modelling for Time Depedent Data**
+
+- [VectorByte training workshop at Notre Dame (2025)](https://vectorbyteorg.github.io/vectorbyte-training2025/).
+
+- [Ecological Forecasting Initiative (EFI) Conference workshop at Virginia Tech, Blacksburg (2025)](https://lrjohnson0.github.io/QEDLab/training/EFI2025.html)
+
+- [VectorByte training workshop at Virginia Tech Research Centre (2024)](https://vectorbyteorg.github.io/vectorbyte-training2024/)
+
+Taught Gaussian Processes (GP) to Ecologists for time dependent data. This covered basics of Gaussian Processes, fiting a GP using the `laGP` package in R. Additionally, introduced Heteroskedastic GP (hetGP) which can be used when noise is input dependent and included fitting in R using `hetGP` package. Practical sessions were also included as part of course material.
+
+## Short Courses
+
+**Bootstrapping in R**, Statistical Applications and Innovations Group, Virginia Tech (2022).
+
+This course covered basics of bootstrapping. The course also included practicals and exercises in R.
+
+## Courses
+
+**STAT 4214: Methods of Regression Analysis**, Department of Statistics, Virginia Tech (2022)
+
+This course covered linear regression, parameter estimation, hypothesis testing. Checking for multicollinearity, outlier detection, residual analysis and transformations. Additionally also covers multiple linear regression, non linear regression, indicator variables and logistic regression. Practicals in R programming language.
+
+

@@ -1,0 +1,8 @@
+---
+title: "Software"
+---
+
+[bhetGP: Bayesian Heteroskedastic Gaussian Processes](https://CRAN.R-project.org/package=bhetGP)
+
+This package fits a Bayesian Heteroskedastic Gaussian Process using Elliptical Slice Sampling (ESS) for inference of the latent noise process in conjunction with Metropolis-Hasting (MH) for kernel hyper-parameters. Additionally, the Woodbury-trick for efficient handling of replication is leveraged. For large data campaigns, Vecchia approximation is used. Methodology for this package is described in 
+["Vecchia approximated Bayesian heteroskedastic Gaussian processes"](https://arxiv.org/abs/2507.07815)

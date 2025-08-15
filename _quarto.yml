@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: public
+
+website:
+  title: "Parul V. Patil"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Publications"
+        href: publications.qmd
+      - software.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+

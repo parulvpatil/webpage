@@ -1,0 +1,19 @@
+---
+title: "Publications"
+description: ""
+output: 
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r generateBibliography1, results="asis", echo=FALSE, warning=FALSE, message=FALSE}
+require("knitcitations")
+cleanbib()
+options("citation_format" = "pandoc", 
+        "cite.style" = "authoryear", 
+        "max.names" = 10)
+read.bibtex(file = "publications/pubs.bib")
+```
