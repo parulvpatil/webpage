@@ -30,6 +30,7 @@ spective, including data organization, analysis planning, and reproducible code 
 Coordinated pilot sessions, managed logistics, and facilitated reviewer feedback to refine course materials. Revised content on nested and crossed effects, identifying datasets that clearly illustrate the differences between these effects.
 
 **Simple Linear Regression**, Virginia Tech SAIG (2023) 
+
 Developed course material and hands-on practicals in R for a short course on Simple Linear Re-
 gression directed towards applied audiences.
 
