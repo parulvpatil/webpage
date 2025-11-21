@@ -18,9 +18,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Taught Gaussian Processes (GP) to Ecologists for time dependent data. This covered basics of Gaussian Processes, fiting a GP using the `laGP` package in R. Additionally, introduced Heteroskedastic GP (hetGP) which can be used when noise is input dependent and included fitting in R using `hetGP` package. Practical sessions were also included as part of course material.
 
+## Course Development
+
+**Research Reproducibility Course**, Virginia Tech SAIG (2025)
+
+Actively designing materials for a short course on research reproducibility from a statistical per-
+spective, including data organization, analysis planning, and reproducible code practices.
+
+**Generalized Linear Mixed Models**, Virginia Tech SAIG (2023)
+
+Coordinated pilot sessions, managed logistics, and facilitated reviewer feedback to refine course materials. Revised content on nested and crossed effects, identifying datasets that clearly illustrate the differences between these effects.
+
+**Simple Linear Regression**, Virginia Tech SAIG (2023) 
+Developed course material and hands-on practicals in R for a short course on Simple Linear Re-
+gression directed towards applied audiences.
+
 ## Short Courses
 
-**Bootstrapping in R**, Statistical Applications and Innovations Group, Virginia Tech (2022).
+**Bootstrapping in R**, Virginia Tech SAIG (2022).
 
 This course covered basics of bootstrapping. The course also included practicals and exercises in R.
 
@@ -30,4 +45,13 @@ This course covered basics of bootstrapping. The course also included practicals
 
 This course covered linear regression, parameter estimation, hypothesis testing. Checking for multicollinearity, outlier detection, residual analysis and transformations. Additionally also covers multiple linear regression, non linear regression, indicator variables and logistic regression. Practicals in R programming language.
 
+## Teaching Assistant
+
+Graded assignments and supported instruction for large statistics and data analysis courses. Pro- vided one-on-one assistance during office hours to reinforce key concepts. Courses include:
+
+- *Integrated Quantitative Sciences (CMDA 2005)*, Virginia Tech (2023)
+- *Statistics in Research (STAT 5616)*, Virginia Tech (2022)
+- *Experimental Designs (STAT 4204)*, Virginia Tech (2022)
+- *Biological Statistics (STAT 3615)*, Virginia Tech (2021)
+- *Statistics for Engineering Applications (STAT 3704)*, Virginia Tech (2021)
 
