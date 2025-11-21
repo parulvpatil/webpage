@@ -42,11 +42,18 @@
     "text": "Gaussian Process Modelling for Time Depedent Data\n\nVectorByte training workshop at Notre Dame (2025).\nEcological Forecasting Initiative (EFI) Conference workshop at Virginia Tech, Blacksburg (2025)\nVectorByte training workshop at Virginia Tech Research Centre (2024)\n\nTaught Gaussian Processes (GP) to Ecologists for time dependent data. This covered basics of Gaussian Processes, fiting a GP using the laGP package in R. Additionally, introduced Heteroskedastic GP (hetGP) which can be used when noise is input dependent and included fitting in R using hetGP package. Practical sessions were also included as part of course material."
   },
   {
+    "objectID": "teaching.html#course-development",
+    "href": "teaching.html#course-development",
+    "title": "Teaching",
+    "section": "Course Development",
+    "text": "Course Development\nResearch Reproducibility Course, Virginia Tech SAIG (2025)\nActively designing materials for a short course on research reproducibility from a statistical per- spective, including data organization, analysis planning, and reproducible code practices.\nGeneralized Linear Mixed Models, Virginia Tech SAIG (2023)\nCoordinated pilot sessions, managed logistics, and facilitated reviewer feedback to refine course materials. Revised content on nested and crossed effects, identifying datasets that clearly illustrate the differences between these effects.\nSimple Linear Regression, Virginia Tech SAIG (2023) Developed course material and hands-on practicals in R for a short course on Simple Linear Re- gression directed towards applied audiences."
+  },
+  {
     "objectID": "teaching.html#short-courses",
     "href": "teaching.html#short-courses",
     "title": "Teaching",
     "section": "Short Courses",
-    "text": "Short Courses\nBootstrapping in R, Statistical Applications and Innovations Group, Virginia Tech (2022).\nThis course covered basics of bootstrapping. The course also included practicals and exercises in R."
+    "text": "Short Courses\nBootstrapping in R, Virginia Tech SAIG (2022).\nThis course covered basics of bootstrapping. The course also included practicals and exercises in R."
   },
   {
     "objectID": "teaching.html#courses",
@@ -54,6 +61,13 @@
     "title": "Teaching",
     "section": "Courses",
     "text": "Courses\nSTAT 4214: Methods of Regression Analysis, Department of Statistics, Virginia Tech (2022)\nThis course covered linear regression, parameter estimation, hypothesis testing. Checking for multicollinearity, outlier detection, residual analysis and transformations. Additionally also covers multiple linear regression, non linear regression, indicator variables and logistic regression. Practicals in R programming language."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nGraded assignments and supported instruction for large statistics and data analysis courses. Pro- vided one-on-one assistance during office hours to reinforce key concepts. Courses include:\n\nIntegrated Quantitative Sciences (CMDA 2005), Virginia Tech (2023)\nStatistics in Research (STAT 5616), Virginia Tech (2022)\nExperimental Designs (STAT 4204), Virginia Tech (2022)\nBiological Statistics (STAT 3615), Virginia Tech (2021)\nStatistics for Engineering Applications (STAT 3704), Virginia Tech (2021)"
   },
   {
     "objectID": "publications.html",
